@@ -13,7 +13,7 @@ namespace BMI
 		{
 			InitializeComponent();
 
-			MainPage = new BMI.MainPage();
+			MainPage = new BMI.MainPage();//
 		}
 
 		protected override void OnStart ()
