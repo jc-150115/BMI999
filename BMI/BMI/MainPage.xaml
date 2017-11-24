@@ -7,7 +7,7 @@
         <StackLayout>
             
             <Label Text="身長を入力してください"
-                HorizontalOptions="Center" />
+                HorizontalOptions="Center" />//
 
             <Entry Text="160.0"
                 HorizontalOptions="Center" />
